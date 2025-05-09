@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+PyPDF2
+pygments
+youtube-transcript-api
+SpeechRecognition 
+
